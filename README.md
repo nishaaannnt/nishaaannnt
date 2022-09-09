@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Dixit</h1>
-<h3 align="center">A passionate CS student from India</h3>
+<h3 align="center">A CS student from India</h3>
 <br>
 - 🌱 I’m currently learning **DSA, Web Development**
 
