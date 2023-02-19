@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS and NodeJs** 
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/nishaaannnt?tab=repositories)
+- 👨‍💻 My Projects are available at [Repositories](https://github.com/nishaaannnt?tab=repositories)
 
 - 📝 My website [https://nishaaannnt.github.io/portfolio/](https://nishaaannnt.github.io/portfolio/)
 
@@ -118,6 +118,7 @@
     />
   </a>
 </p>
+<hr>
 
 <p>
   <img
@@ -127,9 +128,9 @@
   />
 </p>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishaaannnt&show_icons=true&locale=en" alt="nishaaannnt" /></p>--->
-
-<p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishaaannnt&show_icons=true&locale=en" alt="nishaaannnt" /></p>
+<br>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=nishaaannnt&"
