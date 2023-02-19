@@ -120,7 +120,7 @@
 </p>
 <hr>
 
-<p>
+<p align="center">
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nishaaannnt&show_icons=true&locale=en&layout=compact"
@@ -128,7 +128,7 @@
   />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishaaannnt&show_icons=true&locale=en" alt="nishaaannnt" /></p>
+<p align="center">  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishaaannnt&show_icons=true&locale=en" alt="nishaaannnt" /></p>
 <br>
 <p align="center">
   <img
