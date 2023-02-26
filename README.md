@@ -117,20 +117,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-plain-wordmark.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
+  
 </p>
 <hr>
 
