@@ -8,7 +8,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **ReactJS and NodeJs** 
+- 🌱 I’m currently learning **ReactJS and NodeJs (Explore Web3 in future too)** 
 
 - 👨‍💻 My Projects are available at [Repositories](https://github.com/nishaaannnt?tab=repositories)
 
