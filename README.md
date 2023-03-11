@@ -8,13 +8,13 @@
   />
 </p>
 
-- 🌱 I’m currently learning **ReactJS and NodeJs (Explore Web3 in future too)** 
+-  I’m currently learning **ReactJS and NodeJs (Explore Web3 in future too)** 
 
-- 👨‍💻 My Projects are available at [Repositories](https://github.com/nishaaannnt?tab=repositories)
+-  My Projects are available at [Repositories](https://github.com/nishaaannnt?tab=repositories)
 
-- 📝 My website [https://nishaaannnt.github.io/portfolio/](https://nishaaannnt.github.io/portfolio/)
+-  My website [https://nishaaannnt.github.io/portfolio/](https://nishaaannnt.github.io/portfolio/)
 
-- 📫 Reach me **dixitnishant2004@gmail.com**
+-  Reach me **dixitnishant2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
