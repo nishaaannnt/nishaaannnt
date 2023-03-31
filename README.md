@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nishant Dixit</h1>
-<h3 align="center">Web developer, Learner, Student</h3>
+<h3 align="center">Learner</h3>
 
 <p align="left">
   <img
