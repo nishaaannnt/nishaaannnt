@@ -133,10 +133,3 @@
 <p >  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishaaannnt&show_icons=true&locale=en" alt="nishaaannnt" />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nishaaannnt&"
-    alt="nishaaannnt"
-  />
-</p>
