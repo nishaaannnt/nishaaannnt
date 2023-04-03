@@ -14,6 +14,8 @@
 
 -  My website [https://nishaaannnt.github.io/portfolio/](https://nishaaannnt.github.io/portfolio/)
 
+-  Currently studying in Pillai College of Engineering
+
 -  Reach me **dixitnishant2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
