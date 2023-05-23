@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Nishant Dixit</h1>
-<h3 align="center">Learner</h3>
 
 <p align="left">
   <img
@@ -8,17 +7,10 @@
   />
 </p>
 
--  I’m currently learning **ReactJS and NodeJs (Explore Web3 in future too)** 
-
 -  My Projects are available at [Repositories](https://github.com/nishaaannnt?tab=repositories)
-
 -  My website [https://nishaaannnt.github.io/portfolio/](https://nishaaannnt.github.io/portfolio/)
-
--  Currently studying in Pillai College of Engineering
-
 -  Reach me **dixitnishant2004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
   <a href="https://www.linkedin.com/in/nishantdixitt/" target="blank"
     ><img
@@ -46,7 +38,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<hr>
 <p align="left">
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
