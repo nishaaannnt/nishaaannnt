@@ -1,11 +1,5 @@
 <h1 align="center">Hello, I'm Nishant Dixit</h1>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=nishaaannnt&label=Profile%20views&color=0e75b6&style=flat"
-    alt="nishaaannnt"
-  />
-</p>
 
 -  My Projects are available at [Repositories](https://github.com/nishaaannnt?tab=repositories)
 -  My website [https://nishaaannnt.github.io/portfolio/](https://nishaaannnt.github.io/portfolio/)
@@ -123,6 +117,12 @@
   />
 </p>
 
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=nishaaannnt&label=Profile%20views&color=0e75b6&style=flat"
+    alt="nishaaannnt"
+  />
+</p>
 
 <p >  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishaaannnt&show_icons=true&locale=en" alt="nishaaannnt" />
 </p>
