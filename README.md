@@ -1,10 +1,8 @@
-<h1 align="center">Hello, I'm Nishant Dixit</h1>
-
+<h3 >Hello, I'm Nishant Dixit</h3>
 
 -  My Projects are available at [Repositories](https://github.com/nishaaannnt?tab=repositories)
 -  My website [https://nishaaannnt.github.io/portfolio/](https://nishaaannnt.github.io/portfolio/)
 -  Reach me **dixitnishant2004@gmail.com**
-<hr>
 <p align="left">
   <a href="https://www.linkedin.com/in/nishantdixitt/" target="blank"
     ><img
@@ -32,7 +30,6 @@
   /></a>
 </p>
 
-<hr>
 <p align="left">
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -107,8 +104,6 @@
   </a>
   
 </p>
-<hr>
-
 <p >
   <img
     align="center"
