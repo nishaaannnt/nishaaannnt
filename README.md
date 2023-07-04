@@ -1,7 +1,7 @@
 <h2 >👋 Hello, I'm Nishant Dixit</h2>
 
 ## 💫 About Me:
-A third-year B.Tech computer science student who's passionate about programming and tech. I love working on projects using the MERN stack and contributing to open source. Explore my repositories and let's create something amazing together! Happy coding! ✨🚀
+A third-year B.Tech computer science student who's passionate about programming and tech. I love working on projects using the MERN stack and contributing to open source. Explore my repositories and let's create something amazing together! ✨🚀
 
 
 ## 🌐 Socials:
