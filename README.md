@@ -2,8 +2,6 @@
 
 A third-year B.Tech computer science student who likes programming and tech. I love working on projects using the MERN stack and contributing to open source. Explore my repositories and let's create something amazing together!✨
 
-View my [Portfolio](https://nishaaannnt.github.io/portfolio/)🤖
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishantdixitt) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/xdiziz) 
