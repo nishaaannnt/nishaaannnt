@@ -1,5 +1,5 @@
-<h3 >Hello, I'm Nishant Dixit </h3>
+<h3 >hello, I'm Nishant Dixit </h3>
 
-Final year Btech Computer Science Student and a Full stack Developer. I prefer to flex more on my [🔗 Portfolio](https://nishantdixit.vercel.app/)
+final year Btech computer science Student and a full stack developer. i prefer to flex more on my [🔗 Portfolio](https://nishantdixit.vercel.app/)
 
 
