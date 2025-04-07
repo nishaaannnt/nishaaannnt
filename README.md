@@ -1,3 +1,1 @@
-final year btech computer science student and a full stack developer. i prefer to flex more on my [🔗 portfolio](https://nishantdixit.vercel.app/)
-
-
+i click keyboard buttons for a living. [🔗 portfolio](https://nishantdixit.vercel.app/)
